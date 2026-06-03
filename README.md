@@ -1,6 +1,7 @@
-# Ex.   - REVERSE ENGINEER THE GIVEN PRODUCT
-
-### DATE: 
+# Ex No.4  - REVERSE ENGINEER THE GIVEN PRODUCT
+### Name: KARTHICK S
+### Register Number: 212224230114
+### DATE: 02-06-2026
 
 ## AIM: 
 ### To reverse engineering the product and prototyping the same in 3D printer.
@@ -32,11 +33,24 @@
 
 ## Input:
 
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/7408110d-7914-4008-933b-f6217ae8feaa" />
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/22b30f1a-6f50-4a82-8e4e-1657f634361c" />
+
+
+
 ### Output:
 
+<img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/27978dc5-e122-4117-babe-a2cdf90c789f" />
+<img width="1919" height="1195" alt="table" src="https://github.com/user-attachments/assets/0a94b69c-d3ef-4e58-a631-3720c0ee5d81" />
+<img width="1917" height="1199" alt="tablq" src="https://github.com/user-attachments/assets/60cc4a5c-84c6-492c-949f-e8befe355863" />
 
-### Name:
-### Register Number:
+
+
+
+
+
+
+
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
