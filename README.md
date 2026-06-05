@@ -33,22 +33,15 @@
 
 ## Input:
 
-<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/7408110d-7914-4008-933b-f6217ae8feaa" />
-<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/22b30f1a-6f50-4a82-8e4e-1657f634361c" />
-
+<img width="1600" height="1001" alt="WhatsApp Image 2026-06-04 at 1 20 50 PM" src="https://github.com/user-attachments/assets/34d73daf-24de-4378-bb19-d102242fa4b2" />
 
 
 ### Output:
 
-<img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/27978dc5-e122-4117-babe-a2cdf90c789f" />
-<img width="1919" height="1195" alt="table" src="https://github.com/user-attachments/assets/0a94b69c-d3ef-4e58-a631-3720c0ee5d81" />
-<img width="1917" height="1199" alt="tablq" src="https://github.com/user-attachments/assets/60cc4a5c-84c6-492c-949f-e8befe355863" />
+<img width="1536" height="960" alt="WhatsApp Image 2026-06-05 at 9 37 33 PM" src="https://github.com/user-attachments/assets/eb6af9ae-7522-4eb9-999e-1ec4d10d16e6" />
 
 
-
-
-
-
+<img width="1536" height="960" alt="WhatsApp Image 2026-06-05 at 9 38 00 PM" src="https://github.com/user-attachments/assets/d32f756f-9e48-4075-920a-a1012b471322" />
 
 
 
